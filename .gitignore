@@ -1,0 +1,7 @@
+# Node Modules
+node_modules
+# Other stuff
+.env
+.vscode
+app.js
+app2.mjs

@@ -1,0 +1,18 @@
+﻿[
+  {
+    "latjson": 1,
+    "lonjson": 1,
+    "IdOficina": "1",
+    "NombreOficinaSN": "A",
+    "Zona": "A",
+    "NombreEstado": "A"
+  },
+  {
+    "latjson": 2,
+    "lonjson": 2,
+    "IdOficina": "2",
+    "NombreOficinaSN": "B",
+    "Zona": "B",
+    "NombreEstado": "B"
+  }
+]
